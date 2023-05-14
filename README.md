@@ -3,7 +3,7 @@ Repositório com material do bootcamp de engenharia de dados da How
 
 ## Desafio 1
 
-Para a resolução do desafio foi criado criado um Notebook no Google Colab. Basta iniciar uma nova sessão no Google Colab, fazer o upload do Notebooke e seguir as orientações nele contidas.
+Para a resolução do desafio foi criado um Notebook no Google Colab. Basta iniciar uma nova sessão no Google Colab, fazer o upload do Notebook e seguir as orientações nele contidas.
 
 ### Algumas imagens das tabelas
 
